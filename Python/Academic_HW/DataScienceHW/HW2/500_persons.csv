@@ -1,0 +1,501 @@
+Gender,Height,Weight,fitness
+Male,189,85,Obese
+Male,204,76,Normal
+Female,180,80,Obese
+Female,190,74,Overweight
+Male,164,50,Overweight
+Male,204,93,Overweight
+Male,162,81,Extremely Obese
+Male,169,100,Extremely Obese
+Male,189,79,Overweight
+Female,164,73,Obese
+Male,210,70,Normal
+Female,154,50,Obese
+Female,187,71,Overweight
+Male,170,40,Normal
+Male,206,68,Normal
+Female,148,77,Extremely Obese
+Female,152,80,Extremely Obese
+Male,155,118,Extremely Obese
+Male,159,134,Extremely Obese
+Male,187,128,Extremely Obese
+Male,172,99,Extremely Obese
+Female,148,119,Extremely Obese
+Female,164,67,Obese
+Male,200,128,Extremely Obese
+Female,167,37,Normal
+Female,146,34,Overweight
+Male,205,84,Overweight
+Male,202,51,Weak
+Female,158,129,Extremely Obese
+Male,194,141,Extremely Obese
+Male,168,110,Extremely Obese
+Male,193,41,Weak
+Female,190,35,Weak
+Female,155,101,Extremely Obese
+Female,152,123,Extremely Obese
+Female,184,102,Obese
+Female,192,84,Overweight
+Male,159,69,Obese
+Female,166,122,Extremely Obese
+Female,180,51,Normal
+Female,170,90,Obese
+Female,144,78,Extremely Obese
+Male,172,45,Normal
+Male,176,107,Extremely Obese
+Female,177,96,Obese
+Male,200,65,Normal
+Female,183,92,Obese
+Male,196,100,Obese
+Male,176,61,Overweight
+Male,155,141,Extremely Obese
+Female,163,105,Extremely Obese
+Female,171,24,Weak
+Male,178,99,Extremely Obese
+Male,187,94,Obese
+Male,211,105,Obese
+Female,182,59,Overweight
+Male,187,81,Obese
+Male,193,116,Extremely Obese
+Female,159,40,Overweight
+Male,158,77,Extremely Obese
+Female,186,24,Extremely Weak
+Female,136,113,Extremely Obese
+Male,208,43,Extremely Weak
+Male,205,72,Normal
+Male,190,124,Extremely Obese
+Female,174,128,Extremely Obese
+Female,167,66,Obese
+Female,163,29,Normal
+Female,159,52,Obese
+Female,189,106,Obese
+Female,148,21,Normal
+Male,193,106,Obese
+Male,156,69,Extremely Obese
+Male,195,64,Normal
+Female,180,70,Overweight
+Female,192,124,Obese
+Male,180,93,Obese
+Female,163,60,Obese
+Female,171,92,Obese
+Male,196,40,Extremely Weak
+Male,179,64,Overweight
+Female,161,110,Extremely Obese
+Female,185,75,Overweight
+Male,201,107,Obese
+Male,183,112,Extremely Obese
+Male,213,39,Extremely Weak
+Female,170,111,Extremely Obese
+Male,160,106,Extremely Obese
+Female,154,74,Extremely Obese
+Female,180,110,Extremely Obese
+Female,173,124,Extremely Obese
+Female,178,66,Overweight
+Female,189,81,Overweight
+Male,192,50,Normal
+Male,212,108,Obese
+Female,165,126,Extremely Obese
+Male,157,58,Obese
+Male,175,128,Extremely Obese
+Male,210,58,Weak
+Female,185,20,Extremely Weak
+Male,214,145,Obese
+Male,169,94,Extremely Obese
+Male,176,144,Extremely Obese
+Female,193,115,Obese
+Female,187,110,Obese
+Male,210,115,Obese
+Male,181,149,Extremely Obese
+Male,174,143,Extremely Obese
+Female,176,76,Obese
+Male,164,55,Overweight
+Female,145,40,Obese
+Female,141,127,Extremely Obese
+Male,205,124,Obese
+Female,187,60,Normal
+Female,172,66,Obese
+Male,163,49,Overweight
+Female,160,27,Normal
+Female,141,74,Extremely Obese
+Male,159,97,Extremely Obese
+Female,171,126,Extremely Obese
+Female,163,57,Obese
+Male,202,111,Obese
+Male,202,127,Obese
+Female,179,130,Extremely Obese
+Female,153,119,Extremely Obese
+Male,173,85,Obese
+Male,209,104,Obese
+Female,140,49,Obese
+Male,197,140,Extremely Obese
+Male,169,43,Normal
+Female,163,109,Extremely Obese
+Female,182,40,Normal
+Female,153,123,Extremely Obese
+Female,162,80,Obese
+Female,166,125,Extremely Obese
+Female,178,120,Extremely Obese
+Female,185,126,Extremely Obese
+Male,209,97,Overweight
+Male,186,136,Extremely Obese
+Male,174,113,Extremely Obese
+Female,164,24,Normal
+Female,162,55,Obese
+Male,195,138,Extremely Obese
+Male,178,112,Extremely Obese
+Male,155,68,Extremely Obese
+Male,212,114,Obese
+Male,209,95,Overweight
+Female,135,116,Extremely Obese
+Male,210,87,Overweight
+Female,163,85,Overweight
+Female,191,20,Extremely Weak
+Male,155,41,Overweight
+Female,145,30,Overweight
+Female,163,110,Extremely Obese
+Female,150,81,Extremely Obese
+Female,174,73,Obese
+Female,177,54,Overweight
+Male,183,149,Extremely Obese
+Female,182,72,Overweight
+Male,196,94,Obese
+Male,214,88,Normal
+Female,179,46,Normal
+Male,207,90,Overweight
+Female,177,113,Extremely Obese
+Female,167,81,Obese
+Male,196,67,Normal
+Male,191,98,Obese
+Female,151,76,Extremely Obese
+Female,146,37,Overweight
+Female,183,50,Normal
+Male,202,125,Obese
+Male,189,127,Extremely Obese
+Male,182,140,Extremely Obese
+Female,191,101,Obese
+Male,212,138,Obese
+Female,180,89,Obese
+Female,165,72,Obese
+Female,176,64,Overweight
+Female,161,96,Extremely Obese
+Male,203,89,Overweight
+Female,157,44,Overweight
+Male,192,106,Obese
+Male,177,86,Obese
+Male,195,62,Normal
+Female,187,78,Overweight
+Male,180,69,Overweight
+Female,162,105,Extremely Obese
+Female,177,54,Overweight
+Female,156,104,Extremely Obese
+Male,173,84,Obese
+Male,156,74,Extremely Obese
+Male,169,89,Extremely Obese
+Male,180,94,Obese
+Female,137,107,Extremely Obese
+Male,156,83,Extremely Obese
+Male,160,97,Extremely Obese
+Male,172,63,Obese
+Female,172,87,Obese
+Female,161,114,Extremely Obese
+Male,208,140,Extremely Obese
+Male,199,46,Weak
+Male,194,82,Overweight
+Female,151,59,Obese
+Male,197,93,Obese
+Male,160,149,Extremely Obese
+Female,145,57,Obese
+Male,160,88,Extremely Obese
+Female,191,92,Obese
+Male,206,85,Overweight
+Female,143,37,Obese
+Female,145,54,Obese
+Male,163,144,Extremely Obese
+Female,148,116,Extremely Obese
+Female,191,129,Extremely Obese
+Female,180,22,Extremely Weak
+Female,166,101,Extremely Obese
+Female,138,88,Extremely Obese
+Female,137,56,Extremely Obese
+Female,136,96,Extremely Obese
+Male,174,98,Extremely Obese
+Female,168,52,Normal
+Male,198,127,Extremely Obese
+Female,147,60,Obese
+Male,193,129,Extremely Obese
+Male,203,43,Extremely Weak
+Female,150,114,Extremely Obese
+Male,181,59,Overweight
+Male,203,112,Obese
+Female,166,90,Extremely Obese
+Male,194,119,Extremely Obese
+Female,181,107,Obese
+Female,148,48,Normal
+Female,179,56,Overweight
+Female,172,51,Overweight
+Male,160,67,Obese
+Male,185,70,Overweight
+Male,196,130,Extremely Obese
+Male,180,144,Extremely Obese
+Female,169,35,Normal
+Female,141,80,Extremely Obese
+Male,193,74,Overweight
+Male,181,50,Normal
+Male,206,51,Weak
+Female,172,125,Extremely Obese
+Female,178,20,Extremely Weak
+Male,166,103,Extremely Obese
+Male,197,87,Overweight
+Female,137,129,Extremely Obese
+Female,183,60,Overweight
+Male,176,78,Obese
+Male,168,59,Overweight
+Male,155,132,Extremely Obese
+Male,184,130,Extremely Obese
+Female,157,129,Extremely Obese
+Male,198,136,Extremely Obese
+Female,157,28,Normal
+Female,167,79,Obese
+Female,145,89,Extremely Obese
+Female,164,115,Extremely Obese
+Female,179,102,Obese
+Male,174,93,Extremely Obese
+Male,178,120,Extremely Obese
+Male,171,126,Extremely Obese
+Female,152,22,Normal
+Male,162,73,Obese
+Male,156,75,Extremely Obese
+Male,188,128,Extremely Obese
+Male,169,134,Extremely Obese
+Male,183,137,Extremely Obese
+Male,183,39,Weak
+Male,160,119,Extremely Obese
+Male,167,92,Extremely Obese
+Female,182,91,Obese
+Female,158,27,Extremely Weak
+Male,193,72,Overweight
+Female,182,64,Overweight
+Female,174,84,Obese
+Male,205,69,Normal
+Male,187,64,Overweight
+Male,203,46,Weak
+Male,208,54,Weak
+Female,142,96,Extremely Obese
+Female,142,64,Extremely Obese
+Male,181,96,Obese
+Female,187,109,Obese
+Male,196,128,Obese
+Male,165,63,Obese
+Male,193,149,Extremely Obese
+Female,151,22,Normal
+Male,164,89,Extremely Obese
+Male,171,63,Obese
+Male,198,94,Overweight
+Female,157,38,Overweight
+Female,160,53,Obese
+Female,163,113,Extremely Obese
+Male,175,145,Extremely Obese
+Female,164,58,Normal
+Female,135,46,Obese
+Female,182,62,Overweight
+Male,166,71,Obese
+Female,181,110,Extremely Obese
+Male,197,97,Obese
+Male,203,70,Normal
+Male,194,99,Obese
+Female,151,96,Extremely Obese
+Male,203,103,Obese
+Male,198,142,Extremely Obese
+Male,159,77,Extremely Obese
+Male,211,58,Weak
+Male,186,130,Extremely Obese
+Male,186,136,Extremely Obese
+Female,175,126,Extremely Obese
+Male,206,135,Extremely Obese
+Female,174,37,Normal
+Female,175,30,Normal
+Female,149,102,Extremely Obese
+Male,203,88,Overweight
+Male,157,124,Extremely Obese
+Male,185,84,Obese
+Male,167,130,Extremely Obese
+Female,185,88,Obese
+Female,176,81,Obese
+Male,168,93,Extremely Obese
+Male,202,129,Extremely Obese
+Female,139,36,Obese
+Female,143,24,Normal
+Female,194,62,Normal
+Female,162,55,Obese
+Female,159,41,Overweight
+Female,180,72,Overweight
+Female,159,130,Extremely Obese
+Male,157,60,Obese
+Male,180,57,Normal
+Female,167,32,Normal
+Female,152,26,Normal
+Male,170,46,Normal
+Female,162,123,Extremely Obese
+Female,159,96,Extremely Obese
+Female,184,95,Obese
+Female,156,115,Extremely Obese
+Female,150,41,Overweight
+Female,166,88,Obese
+Female,149,62,Obese
+Male,194,72,Overweight
+Male,185,104,Obese
+Female,179,76,Obese
+Female,186,38,Normal
+Male,177,47,Normal
+Male,193,127,Extremely Obese
+Female,152,30,Normal
+Male,199,72,Normal
+Male,212,77,Normal
+Female,155,21,Normal
+Male,199,142,Extremely Obese
+Male,205,39,Extremely Weak
+Male,189,79,Overweight
+Female,184,94,Obese
+Female,181,113,Extremely Obese
+Female,175,28,Weak
+Female,181,118,Obese
+Female,188,31,Weak
+Male,176,92,Obese
+Female,146,128,Extremely Obese
+Female,190,117,Obese
+Female,179,122,Extremely Obese
+Male,156,69,Extremely Obese
+Female,180,64,Overweight
+Female,181,97,Obese
+Male,157,120,Extremely Obese
+Female,142,37,Obese
+Male,166,51,Overweight
+Female,155,94,Extremely Obese
+Male,200,49,Weak
+Female,158,33,Normal
+Male,189,84,Obese
+Female,145,114,Extremely Obese
+Male,157,80,Extremely Obese
+Male,193,131,Extremely Obese
+Female,149,66,Extremely Obese
+Male,191,76,Overweight
+Male,174,109,Extremely Obese
+Male,206,51,Weak
+Male,192,106,Obese
+Male,166,143,Extremely Obese
+Female,177,119,Extremely Obese
+Female,192,42,Normal
+Male,161,127,Extremely Obese
+Female,155,53,Obese
+Female,152,36,Overweight
+Female,145,20,Normal
+Female,162,28,Normal
+Female,175,40,Normal
+Female,178,46,Normal
+Female,178,57,Overweight
+Female,147,124,Extremely Obese
+Female,159,41,Overweight
+Male,202,85,Overweight
+Male,184,125,Extremely Obese
+Female,144,31,Overweight
+Male,178,126,Extremely Obese
+Female,190,74,Overweight
+Male,189,96,Obese
+Male,197,59,Normal
+Male,184,99,Obese
+Male,208,119,Obese
+Male,163,130,Extremely Obese
+Male,201,57,Normal
+Male,180,132,Extremely Obese
+Female,141,93,Extremely Obese
+Female,161,103,Extremely Obese
+Male,194,45,Weak
+Female,172,71,Obese
+Male,196,143,Extremely Obese
+Female,156,124,Extremely Obese
+Female,152,73,Extremely Obese
+Female,164,68,Obese
+Female,147,84,Extremely Obese
+Female,157,34,Normal
+Male,177,119,Extremely Obese
+Female,172,31,Normal
+Female,190,31,Weak
+Male,155,135,Extremely Obese
+Female,181,116,Extremely Obese
+Female,173,77,Obese
+Male,189,43,Weak
+Female,175,29,Weak
+Male,203,130,Obese
+Female,182,100,Obese
+Female,148,47,Obese
+Female,160,65,Obese
+Female,173,49,Normal
+Female,158,124,Extremely Obese
+Female,145,67,Extremely Obese
+Male,194,116,Obese
+Male,180,51,Normal
+Male,183,147,Extremely Obese
+Female,148,103,Extremely Obese
+Male,199,146,Extremely Obese
+Male,203,54,Weak
+Female,161,123,Extremely Obese
+Female,167,86,Obese
+Male,197,62,Normal
+Male,158,138,Extremely Obese
+Male,167,135,Extremely Obese
+Female,181,98,Obese
+Male,174,129,Extremely Obese
+Male,161,59,Obese
+Female,171,91,Obese
+Female,141,71,Extremely Obese
+Male,174,134,Extremely Obese
+Male,177,146,Extremely Obese
+Female,167,60,Obese
+Female,164,91,Extremely Obese
+Male,197,39,Extremely Weak
+Female,178,49,Normal
+Male,191,66,Normal
+Female,183,98,Obese
+Female,170,53,Normal
+Male,169,70,Obese
+Female,179,117,Extremely Obese
+Male,194,112,Obese
+Male,167,121,Extremely Obese
+Male,194,45,Weak
+Female,140,111,Extremely Obese
+Female,176,50,Normal
+Male,173,116,Extremely Obese
+Female,183,69,Overweight
+Male,160,131,Extremely Obese
+Male,176,104,Extremely Obese
+Male,213,98,Overweight
+Male,162,131,Extremely Obese
+Male,169,101,Extremely Obese
+Female,173,35,Normal
+Male,210,142,Extremely Obese
+Female,162,49,Overweight
+Male,198,120,Obese
+Female,159,112,Extremely Obese
+Male,182,53,Normal
+Female,146,25,Normal
+Female,142,77,Extremely Obese
+Female,150,85,Extremely Obese
+Female,167,78,Obese
+Female,137,56,Extremely Obese
+Male,161,74,Obese
+Female,183,85,Obese
+Male,188,100,Obese
+Female,155,79,Extremely Obese
+Male,202,69,Normal
+Male,213,125,Obese
+Female,174,120,Extremely Obese
+Female,159,29,Normal
+Female,141,117,Extremely Obese
+Female,193,20,Extremely Weak
+Female,165,23,Weak
+Male,167,87,Extremely Obese
+Female,145,123,Extremely Obese
+Female,179,91,Obese
+Female,136,106,Extremely Obese
+Male,165,84,Extremely Obese
+Male,188,120,Extremely Obese
